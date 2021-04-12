@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CRTL-C
+- 👀 I’m interested in Computers and Multidisciplinary Engineering
+- 🌱 I’m currently learning hacking and deeplearning.
+- 💞️ I’m looking to collaborate on anything where i can code any programming language.
